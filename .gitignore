@@ -18,6 +18,8 @@ yarn.lock
 .env
 .env.local
 .env.*.local
+# start.sh 本地构建缓存
+.docker-build-cache/
 
 # Docker
 workspace/
